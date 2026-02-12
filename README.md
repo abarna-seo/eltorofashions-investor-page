@@ -1,7 +1,6 @@
-# eltorofashions-investor-page
-Responsive Investor page development for Eltoro Fashions using HTML, CSS, and Bootstrap with structured content hierarchy and clean UI implementation.
-
 # Eltoro Fashions – Investor Page Frontend Development
+
+Responsive Investor page development for Eltoro Fashions using HTML, CSS, and Bootstrap with structured content hierarchy and clean UI implementation.
 
 ## Live URL
 https://www.eltorofashions.com/investor
@@ -29,7 +28,7 @@ Developed the Investor Page for Eltoro Fashions focusing on structured layout, r
 - Enhanced UI structure and visual consistency
 - Professional investor-focused design implementation
 
-## 📸 Project Screenshots
+## Project Screenshots
 
 ![Hero Section](hero-section.png)
 
